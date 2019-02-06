@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ratingbar Challenge</string>
+    <!--Two different strings for handling increased and decreased toast-->
+    <string name="increase">Increased</string>
+    <string name="decrease">Decreased</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomStarsViewHolder">
+        <attr name="max_stars" format="integer"/>
+        <attr name="initial_stars" format="integer"/>
+        <attr name="empty_star" format="reference"/>
+        <attr name="full_star" format="reference"/>
+        <attr name="empty_anim" format="integer"/>
+        <attr name="fill_anim" format="integer"/>
+    </declare-styleable>
+</resources>
